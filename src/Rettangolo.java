@@ -4,7 +4,7 @@ public class Rettangolo extends Forma{
         System.out.println("calcolo area rettangolo " + b * h);
     }
     @Override
-    public void calcolaArea() {;
+    public void calcolaArea() {
         System.out.println("indefinito");
     }
 }

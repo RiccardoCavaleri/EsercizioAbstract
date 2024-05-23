@@ -4,6 +4,6 @@ public class Main {
         Forma triangolo = new Triangolo();
 
     triangolo.calcolaArea(5.6,8.4);
-    rettangolo.calcolaArea();
+    rettangolo.calcolaArea(5,7);
     }
 }
